@@ -1,9 +1,9 @@
 # Performance-Management-Application(PMA)
-![](HomePage.png)
+![](WelcomePage.png)
 ## 1. Introduction
 
 ### 1.1 Overview
-The Performance Management App (PMA), designed using Microsoft Power Platform tools to systematically monitor and evaluate employee performance within an organization. Its purpose is to ensure that employees meet established expectations in terms of performance, availability, and overall user experience. PMA provides a holistic view of an employee’s performance by tracking various dimensions. 
+The Performance Management App (PMA), is designed using Microsoft Power Platform tools to systematically monitor and evaluate employee performance within an organization. Its purpose is to ensure that employees meet established expectations in terms of performance, availability, and overall user experience. PMA provides a holistic view of an employee’s performance by tracking various dimensions. 
 ### 1.2 Key Features
 - **Objective Settings**: Employees’ individual goals and targets are defined clearly. PMA monitors progress toward achieving these objectives.
 - **Performance Appraisal**: Regular assessments are conducted to evaluate an employee’s performance against predefined criteria. This includes factors like productivity, quality of work, teamwork, and adherence to company policies.
